@@ -1,0 +1,21 @@
+[
+  "Students_Expected",
+  "Meals_Prepared",
+  "Meals_Served",
+  "Previous_Waste_KG",
+  "Avg_Waste_Last_7Days",
+  "Prepared_Served_Gap",
+  "Is_Weekend",
+  "Day_Monday",
+  "Day_Tuesday",
+  "Day_Wednesday",
+  "Day_Thursday",
+  "Day_Friday",
+  "Day_Saturday",
+  "Day_Sunday",
+  "Holiday_Yes",
+  "Special_Event_Yes",
+  "Meal_Type_Breakfast",
+  "Meal_Type_Lunch",
+  "Meal_Type_Dinner"
+]
